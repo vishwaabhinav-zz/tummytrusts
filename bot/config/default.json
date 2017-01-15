@@ -1,0 +1,6 @@
+{
+    "appSecret": "36317447538ee826204ffa3919e1d89d",
+    "pageAccessToken": "EAAK3yfLTGKEBAAk5hX2UrvBFTG5Lo7suPgBO7dgZB3ywTsy64WDVUYKeoiZC3J0ZBZAyBAXaA6eDR1CHKQjF0zjcvMd6GWNHINyjZCI9jliG7l1DbnT9uDmC3iGPZAd4YUxnrT2ZCxp0FJ4ZClS2J0xLfZB9mO5B6vUZBGTt3ySgMd3gZDZD",
+    "validationToken": "foo",
+    "serverURL": "http://localhost:3000/"
+}
